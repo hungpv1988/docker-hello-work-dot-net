@@ -1,0 +1,10 @@
+D:\Project\Docker\AspNet\Simple\Hello\bin\Debug\netcoreapp2.0\Hello.deps.json
+D:\Project\Docker\AspNet\Simple\Hello\bin\Debug\netcoreapp2.0\Hello.runtimeconfig.json
+D:\Project\Docker\AspNet\Simple\Hello\bin\Debug\netcoreapp2.0\Hello.runtimeconfig.dev.json
+D:\Project\Docker\AspNet\Simple\Hello\bin\Debug\netcoreapp2.0\Hello.dll
+D:\Project\Docker\AspNet\Simple\Hello\bin\Debug\netcoreapp2.0\Hello.pdb
+D:\Project\Docker\AspNet\Simple\Hello\obj\Debug\netcoreapp2.0\Hello.csproj.CoreCompileInputs.cache
+D:\Project\Docker\AspNet\Simple\Hello\obj\Debug\netcoreapp2.0\Hello.AssemblyInfoInputs.cache
+D:\Project\Docker\AspNet\Simple\Hello\obj\Debug\netcoreapp2.0\Hello.AssemblyInfo.cs
+D:\Project\Docker\AspNet\Simple\Hello\obj\Debug\netcoreapp2.0\Hello.dll
+D:\Project\Docker\AspNet\Simple\Hello\obj\Debug\netcoreapp2.0\Hello.pdb
